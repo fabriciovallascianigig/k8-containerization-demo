@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/frg/k8-containerization-demo.git'
+    repoURL: 'https://github.com/fabriciovallascianigig/k8-containerization-demo.git'
     targetRevision: main
     path: kubernetes/apps/app1/overlays/production
   destination:

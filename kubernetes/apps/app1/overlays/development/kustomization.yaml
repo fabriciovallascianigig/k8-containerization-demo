@@ -4,4 +4,4 @@ kind: Kustomization
 namePrefix: dev-
 
 resources:
-  - ../../base
+  - ../../bases
