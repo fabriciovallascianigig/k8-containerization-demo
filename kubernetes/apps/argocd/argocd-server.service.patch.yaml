@@ -4,4 +4,8 @@ spec:
       port: 5010
       protocol: TCP
       targetPort: 8080
+<<<<<<< HEAD
   type: LoadBalancer
+=======
+  type: LoadBalancer
+>>>>>>> origin/main

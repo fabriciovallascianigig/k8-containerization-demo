@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # apps/app1/
+=======
+>>>>>>> origin/main
 # Use the official Microsoft .NET runtime image as the base image
 FROM mcr.microsoft.com/dotnet/aspnet:7.0
 
@@ -8,9 +11,12 @@ WORKDIR /app
 # Copy the published output of the application to the container
 COPY ./publish /app
 
+<<<<<<< HEAD
 # Set the environment of the app to development so that swagger works
 ENV ASPNETCORE_ENVIRONMENT=Development
 
+=======
+>>>>>>> origin/main
 # Set the port the application will listen on
 ENV ASPNETCORE_URLS=http://+:8080
 
