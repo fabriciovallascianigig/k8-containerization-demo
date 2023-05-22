@@ -1,0 +1,12 @@
+C:\source\Repos\apps\app1\publish\app1.exe
+C:\source\Repos\apps\app1\publish\appsettings.Development.json
+C:\source\Repos\apps\app1\publish\appsettings.json
+C:\source\Repos\apps\app1\publish\app1.dll
+C:\source\Repos\apps\app1\publish\app1.deps.json
+C:\source\Repos\apps\app1\publish\app1.runtimeconfig.json
+C:\source\Repos\apps\app1\publish\app1.pdb
+C:\source\Repos\apps\app1\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\source\Repos\apps\app1\publish\Microsoft.OpenApi.dll
+C:\source\Repos\apps\app1\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\source\Repos\apps\app1\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\source\Repos\apps\app1\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
